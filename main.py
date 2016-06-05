@@ -1,1 +1,7 @@
-print("hello, world")
+print('add two numbers together') 
+print('input first number')
+first_number = input()
+print('input second number')
+second_number = input()
+result = int(first_number) + int(second_number) 
+print(result)
